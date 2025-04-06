@@ -20,7 +20,8 @@ namespace CustomersApp.Data
         {
             new Customer { Id = 1, FirstName = "Yanis", LastName = "Djenadi", IsDeveloper = true },
             new Customer { Id = 2, FirstName = "Nassim", LastName = "Djenadi", IsDeveloper = false },
-            new Customer { Id = 3, FirstName = "django", LastName = "idk", IsDeveloper = false }
+            new Customer { Id = 3, FirstName = "django", LastName = "idk", IsDeveloper = false },
+            new Customer { Id = 3, FirstName = "NaNa", LastName = "0sAk1", IsDeveloper = false }
         };
 
         }
